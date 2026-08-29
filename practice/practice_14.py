@@ -19,4 +19,5 @@ def modify_string_1(s: str) -> str:
     odd = s[1::2] # Grab all the odd indices
     reversed_odd = odd[::-1]
     return even + reversed_odd
+
 print(modify_string_1('python'))
