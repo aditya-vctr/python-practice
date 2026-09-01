@@ -1,0 +1,3 @@
+Alice Brown,119.21,2023-10-20
+Carol White,476.74,2024-06-07
+Alice Brown,22.76,2024-07-24
