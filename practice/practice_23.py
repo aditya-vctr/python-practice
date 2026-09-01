@@ -25,5 +25,5 @@ def is_multiple(a: int, b: int) -> bool:
         if b % a == 0:
             return True
         return False
-print(is_multiple(10,5))
-print(is_multiple(7,3))
+print(is_multiple(10,5))  # True
+print(is_multiple(7,3))   # False
