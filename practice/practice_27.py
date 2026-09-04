@@ -33,6 +33,6 @@ def is_present_in_opposite_halves(elem, l1: list, l2: list):
     else:
         return False
 
-print(is_present_in_opposite_halves(3, [1, 2, 3, 4], [5, 6, 3, 8]))
-print(is_present_in_opposite_halves(6, [5, 6, 7, 8], [1, 2, 6, 4]))
-print(is_present_in_opposite_halves(6, [5, 7, 6, 8], [1, 6, 2, 4]))
+print(is_present_in_opposite_halves(3, [1, 2, 3, 4], [5, 6, 3, 8]))  #False
+print(is_present_in_opposite_halves(6, [5, 6, 7, 8], [1, 2, 6, 4]))  #True
+print(is_present_in_opposite_halves(6, [5, 7, 6, 8], [1, 6, 2, 4]))  #True
