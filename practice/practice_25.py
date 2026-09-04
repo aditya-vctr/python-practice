@@ -26,5 +26,5 @@ def is_even_two_digit_number(num):
         return True
     return False
 
-print(is_even_two_digit_number(24)) #True
-print(is_even_two_digit_number(85))
+print(is_even_two_digit_number(24)) # True
+print(is_even_two_digit_number(85)) # False
