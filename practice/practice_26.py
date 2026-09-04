@@ -22,6 +22,6 @@ def is_dot_com_or_dot_in(domain):
         return True
     else:
         return False
-print(is_dot_com_or_dot_in('abcd@gmail.com'))
-print(is_dot_com_or_dot_in('mywebsite.in'))
-print(is_dot_com_or_dot_in('example.org'))
+print(is_dot_com_or_dot_in('abcd@gmail.com'))  #True
+print(is_dot_com_or_dot_in('mywebsite.in'))    #True
+print(is_dot_com_or_dot_in('example.org'))     #False
