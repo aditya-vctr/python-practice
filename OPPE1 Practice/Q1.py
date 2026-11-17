@@ -14,4 +14,4 @@ def abs_diff_between_sum_and_sum_of_squares(a: int, b: int) -> int:
     absolute_diff = abs(sum - squares)
     return absolute_diff
 
-abs_diff_between_sum_and_sum_of_squares(2,3)
+print(abs_diff_between_sum_and_sum_of_squares(2,3))
