@@ -16,3 +16,4 @@ def interleave_lists(list1: list, list2: list, list3: list) -> list:
     return result
 
 print(interleave_lists([1, 2], ['a', 'b'], [10, 20]))
+
